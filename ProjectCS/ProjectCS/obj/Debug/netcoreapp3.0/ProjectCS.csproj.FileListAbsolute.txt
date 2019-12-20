@@ -1,0 +1,11 @@
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.0\ProjectCS.exe
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.0\ProjectCS.deps.json
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.0\ProjectCS.runtimeconfig.json
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.0\ProjectCS.runtimeconfig.dev.json
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.0\ProjectCS.dll
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.0\ProjectCS.pdb
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.0\ProjectCS.csprojAssemblyReference.cache
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.0\ProjectCS.AssemblyInfoInputs.cache
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.0\ProjectCS.AssemblyInfo.cs
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.0\ProjectCS.dll
+D:\Profiles\mlacourpaille\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.0\ProjectCS.pdb

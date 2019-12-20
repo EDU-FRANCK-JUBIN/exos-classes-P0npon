@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "d:\\Profiles\\mlacourpaille\\.dotnet\\store\\|arch|\\|tfm|",
+      "d:\\Profiles\\mlacourpaille\\.nuget\\packages"
+    ]
+  }
+}
